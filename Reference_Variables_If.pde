@@ -19,5 +19,4 @@ void draw() {
     bounce = bounce*(-1);
   }
   
-  save("REFERENCE_Variables01");
 }
